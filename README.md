@@ -1,5 +1,5 @@
-# Insider-Trading
-To track insider trading by scraping SEC website and Yahoo finance
+# Bolsa-Trading
+To track Bolsa-Trading by scraping SEC website and Yahoo finance
 
 -h, --help            show this help message and exit
 
