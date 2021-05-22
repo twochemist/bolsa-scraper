@@ -1,4 +1,5 @@
 # Bolsa-Trading
+A web scraper written in Python to gather with scripts trade data and transmit/receive data/orders from Interactive Brokers
 To track Bolsa-Trading by scraping SEC website and Yahoo finance
 
 -h, --help            show this help message and exit
